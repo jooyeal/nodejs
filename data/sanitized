@@ -1,0 +1,4 @@
+sanitized good
+<script>
+alert('hh');
+</script>
